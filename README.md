@@ -7,7 +7,8 @@ Uses `git ls-files` then `git blame --line-porcelain`
 
 Outputs JSON that looks something like this:
 
-```[
+```
+[
   {
     "value": 78421,
     "label": "Alex"
@@ -16,7 +17,8 @@ Outputs JSON that looks something like this:
     "value": 1116,
     "label": "Steve"
   },
-]```
+]
+```
 
 
 ### TODO
